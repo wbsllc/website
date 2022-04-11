@@ -278,6 +278,10 @@ header {
     -o-background-size: cover;
 }
 
+header .main-logo {
+    width: 250px;
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
