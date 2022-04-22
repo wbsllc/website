@@ -11,18 +11,16 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Jessica
   pic: 1
-  position: BCBA
+  position: Founder and BCBA
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
-    - title: stack-overflow
-      url: #
 
 - name: Janet
   pic: 2
-  position: HR
+  position: Human Resources Coordinator
   social:
     - title: twitter
       url: #
@@ -33,13 +31,11 @@ people:
 
 - name: Mary
   pic: 3
-  position: Social Services
+  position: Community Outreach Coordinator
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
