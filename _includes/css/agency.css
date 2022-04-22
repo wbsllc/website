@@ -18,6 +18,18 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+.text-training {
+    color: #{{ site.data.template.color.training }};
+}
+
+.text-collaboration {
+    color: #{{ site.data.template.color.collaboration }};
+}
+
+.text-consultation {
+    color: #{{ site.data.template.color.consultation }};
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
