@@ -13,17 +13,15 @@ people:
   pic: 1
   position: Founder and BCBA
   social:
-    - title: twitter
-      url: #
     - title: facebook
+      url: #
+    - title: linkedin
       url: #
 
 - name: Janet
   pic: 2
   position: Human Resources Coordinator
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
     - title: linkedin
@@ -33,17 +31,17 @@ people:
   pic: 3
   position: Community Outreach Coordinator
   social:
-    - title: twitter
-      url: #
     - title: facebook
+      url: #
+    - title: linkedin
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/wbsllc
   - title: facebook
-    url:
+    url: http://facebook.com/wbsllc
 
 # Postal address (add as many lines as necessary)
 address:
