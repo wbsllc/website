@@ -6,23 +6,22 @@ title: Worthington Behavioral Services
 email: jessica@worthingtonbehavioral.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
-
 # Team names, titles and social links
 people:
 - name: Jessica, BCBA
   pic: 1
   position: Founder and Owner
   social:
-    - title: facebook
+    - title: email
       url: #
     - title: linkedin
       url: #
 
-- name: Janet
+- name: Janet, PHR, SHRM-CP 
   pic: 2
   position: Human Resources Coordinator
   social:
-    - title: facebook
+    - title: email
       url: #
     - title: linkedin
       url: #
@@ -31,7 +30,7 @@ people:
   pic: 3
   position: Community Outreach Coordinator
   social:
-    - title: facebook
+    - title: email
       url: #
     - title: linkedin
       url: #
