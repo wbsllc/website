@@ -26,23 +26,16 @@ people:
     - title: linkedin
       url: #
 
-- name: Mary
+- name: Mary and Megan
   pic: 3
-  position: Community Outreach Coordinator
-  social:
-    - title: email
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Megan
   pic: 4
-  position: Community Outreach Coordinator
+  position: Community Outreach Coordinators
   social:
     - title: email
       url: #
     - title: linkedin
-      url: #      
+      url: #
+   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
