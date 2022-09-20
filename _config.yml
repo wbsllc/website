@@ -12,6 +12,7 @@ people:
   modal-id: 1
   pic: 1
   position: Founder and Owner
+  bio: TEST!
   social:
     - title: email
       url: #
