@@ -9,6 +9,7 @@ description: "ABA."
 # Team names, titles and social links
 people:
 - name: Jessica, BCBA
+  modal-id: 1
   pic: 1
   position: Founder and Owner
   social:
@@ -18,6 +19,7 @@ people:
       url: #
 
 - name: Janet, PHR, SHRM-CP 
+  modal-id: 2
   pic: 2
   position: Human Resources Coordinator
   social:
@@ -27,6 +29,7 @@ people:
       url: #
 
 - name: Mary
+  modal-id: 3
   pic: 3
   position: Community Outreach Coordinator
   social:
@@ -36,6 +39,7 @@ people:
       url: #
    
 - name: Megan
+  modal-id: 4
   pic: 4
   position: Community Outreach Coordinator
   social:
