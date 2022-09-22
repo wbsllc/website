@@ -696,7 +696,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/wbslogo.png');
+    background-image: url('{{ site.baseurl }}/img/WBSlogo.png');
     background-position: center;
     background-repeat: no-repeat;
 }
