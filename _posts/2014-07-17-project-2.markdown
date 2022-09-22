@@ -3,8 +3,8 @@ title: Now Scheduling for 2023!
 subtitle: BCBA Coverage for Providers
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
+date: October 2022
+img: monthly_planner.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: February 2023
