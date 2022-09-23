@@ -9,10 +9,13 @@ description: "ABA."
 services:
 - name: Training
   modal-id: 1
+  description: TEST
 - name: Consultation
   modal-id: 2
+  description: TEST
 - name: Collaboration
   modal-id: 3
+  description: TEST
 
 # Team names, titles and social links
 people:
