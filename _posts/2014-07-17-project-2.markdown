@@ -10,6 +10,6 @@ alt: image-alt
 project-date: October 2022
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Worthington Behavioral Services LLC offers BCBA caseload coverage for up to 12 weeks for temporary medical leaves to alleviate the stress families and providers experience during staffing storages.
 
 ---
