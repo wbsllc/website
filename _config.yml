@@ -6,6 +6,14 @@ title: Worthington Behavioral Services
 email: jessica@worthingtonbehavioral.com
 description: "ABA."
 
+services:
+- name: Training
+  modal-id: 1
+- name: Consultation
+  modal-id: 2
+- name: Collaboration
+  modal-id: 3
+
 # Team names, titles and social links
 people:
 - name: Jessica, BCBA
