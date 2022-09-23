@@ -1,15 +1,15 @@
 ---
-title: Now Scheduling for 2023!
-subtitle: BCBA Coverage for Providers
+title: Escape
+subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2022-10-01
-img: monthly_planner.png
+date: 2014-07-17
+img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: February 2023
-client: ABA Providers
-category: BCBA Case Coverage for Temporary Medical Leaves 
-description: Worthington Behavioral Services LLC offers BCBA caseload coverage for up to 12 weeks for temporary medical leaves to alleviate the stress families and providers experience during staffing storages. 
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
