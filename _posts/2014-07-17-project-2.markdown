@@ -9,7 +9,7 @@ thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: February 2023
 client: ABA Providers
-Service: BCBA Case Coverage for Temporary Medical Leaves 
+category: BCBA Case Coverage for Temporary Medical Leaves 
 description: Worthington Behavioral Services LLC offers BCBA caseload coverage for up to 12 weeks for temporary medical leaves to alleviate the stress families and providers experience during staffing storages. 
 
 ---
