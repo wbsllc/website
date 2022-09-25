@@ -1,89 +1,38 @@
-url: https://wbsllc.github.io
-baseurl: /website/
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
 
 # Site settings
-title: Worthington Behavioral Services
-email: jessica@worthingtonbehavioral.com
-description: "ABA."
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-services:
-- name: Training
-  id: training
-  modal-id: 1
-  description: Providing supervision for BCaBA / BCBA certification. 
-- name: Consultation
-  id: consultation
-  modal-id: 2
-  description: Now accepting provider referrals for Parent Training.
-- name: Collaboration
-  id: collaboration
-  modal-id: 3
-  description: BCBA coverage for temporary medical leaves. Now scheduling for February 2023!
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
-# Team names, titles and social links
-people:
-- name: Jessica, BCBA
-  modal-id: 1
-  pic: 1
-  position: Founder and Owner
-  bio:  "Jessica Worthington, BCBA 
-        Founder • Owner 
+title      : Worthington Behavioral Services
+email      : jessica@worthingtonbehavioral.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+logo:     #optional, defaults to site title
+  path: assets\img\main-logo.png
+  height: 60 #height in px, defaults to 52px
 
-        For over a decade, Jessica has worked with individuals and families impacted by autism, developmental disabilities, and other complex medical needs. Her path to ABA started during her time in medical genetics with the internationally acclaimed Greenwood Genetic Center. Here she became intimately aware of the growing need for qualified providers of services for families impacted by autism spectrum disorders. Jessica began her pursuit of certification as a Behavior Analyst in 2018 and gained invaluable experience working for a large nonprofit ABA company in South Carolina prior to moving with her family to Wisconsin in 2021. She has a special interest in parent and provider training, augmentative and alternative communication (AAC), and treatment of challenging behaviors. 
+locale: "en-US" # See available languages in _data/sitetext.yml
 
-        Jessica values spending time with her family, supporting others, and seeking opportunities for personal and professional growth. 
+analytics:
+  google: #Google Analytics tracking code here
 
-        Professional Memberships:
-        South Carolina Association for Behavior Analysis (SC ABA)
-        Wisconsin Association for Behavior Analysis (WisABA)"
-  social:
-    - title: envelope
-      url: "mailto:jessica@worthingtonbehavioral.com"
-    - title: linkedin
-      url: #
+collections:
+  portfolio:
+  people:
 
-- name: Janet, PHR, SHRM-CP 
-  modal-id: 2
-  pic: 2
-  position: Human Resources Coordinator
-  bio:  "Janet Harris Still, PHR, SHRM-CP 
-        Human Resources Coordinator 
-
-        With over forty years of experience in a medical practice setting, Janet has easily blended her background in Practice Management into Human Resources. Her experience spans many facets of the HR generalist, including employee relations, change and performance management, workforce planning and development, Inclusion/Diversity initiatives and immigration related support services. Janet received her Professional in Human Resources (PHR) certification in 2007 and her SHRM-Certified Professional certification in 2015. She is an active member of the Society of Human Resource Management (SHRM), currently serving as Diversity Chair on the board of her local chapter, is an active committee member of Chamber of Commerce work‐force improvement initiatives and has participated on local Community Foundation grant review committees. 
-
-        Janet is most at home in the mountains and loves sharing experiences with her family, especially if it involves cooking, creating, games and stargazing." 
-  social:
-    - title: envelope
-      url: "mailto:hr@worthingtonbehavioral.com"
-
-- name: Mary
-  modal-id: 3
-  pic: 3
-  position: Community Outreach Coordinator
-  social:
-    - title: envelope
-      url: "mailto:community@worthingtonbehavioral.com"
-   
-- name: Megan
-  modal-id: 4
-  pic: 4
-  position: Community Outreach Coordinator
-  social:
-    - title: envelope
-      url: "mailto:community@worthingtonbehavioral.com"
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: instagram
-    url: http://instagram.com/wbsllc
-  - title: facebook
-    url: http://facebook.com/wbsllc
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: PO Box #170845
-  - line: Milwaukee, WI 53217-4504
-
-# Build settings
 markdown: kramdown
-permalink: pretty
+
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+formspree_form_path: "f/mqkjqldq"
