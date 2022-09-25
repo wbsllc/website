@@ -8,14 +8,17 @@ description: "ABA."
 
 services:
 - name: Training
+  id: training
   modal-id: 1
-  description: TEST
+  description: Providing supervision for BCaBA / BCBA certification. 
 - name: Consultation
+  id: consultation
   modal-id: 2
-  description: TEST
+  description: Now accepting provider referrals for Parent Training.
 - name: Collaboration
+  id: collaboration
   modal-id: 3
-  description: TEST
+  description: BCBA coverage for temporary medical leaves. Now scheduling for February 2023!
 
 # Team names, titles and social links
 people:

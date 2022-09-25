@@ -8,36 +8,18 @@
                 </div>
             </div>
             <div class="row text-center">
-                <a href="#servicesModal{{ 1 }}" class="portfolio-link" data-toggle="modal">
+            {% for service in site.services %}
+                <a href="#servicesModal{{ service.modal-id }}" class="portfolio-link" data-toggle="modal">
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-training"></i>
+                            <i class="fa fa-circle fa-stack-2x text-{{ service.id }}"></i>
                             <i class="fa fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="service-heading">Training</h4>
-                        <p class="text-muted">Providing supervision for BCaBA / BCBA certification.</p>
+                        <h4 class="service-heading">{{ service.name }}</h4>
+                        <p class="text-muted">{{ service.description }}</p>
                     </div>
                 </a>
-                <a href="#servicesModal{{ 2 }}" class="portfolio-link" data-toggle="modal">
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-consultation"></i>
-                            <i class="fa fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="service-heading">Consultation</h4>
-                        <p class="text-muted">Now accepting provider referrals for Parent Training.</p>
-                    </div>
-                </a>
-                <a href="#servicesModal{{ 3 }}" class="portfolio-link" data-toggle="modal">
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fa fa-circle fa-stack-2x text-collaboration"></i>
-                            <i class="fa fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="service-heading">Collaboration</h4>
-                        <p class="text-muted">BCBA coverage for temporary medical leaves. Now scheduling for February 2023!</p>
-                    </div>
-                </a>
+            {% endfor %}
             </div>
         </div>
     </section>
