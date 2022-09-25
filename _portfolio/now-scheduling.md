@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Now Scheduling for 2023!
   subtitle: BCBA Coverage for Providers
-  thumbnail: /assets/img/portfolio/monthly-planner.png
+  thumbnail: assets/img/portfolio/monthly-planner.png
   
 #what displays when the item is clicked:
 title: Now Scheduling for 2023!
 subtitle: BCBA Coverage for Providers
-image: /assets/img/portfolio/monthly-planner.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/monthly-planner.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---

@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   name: Jessica, BCBA
   role: Founder and Owner
-  thumbnail: /assets/img/team/1.jpg
+  thumbnail: assets/img/team/1.jpg
   
 #what displays when the item is clicked:
 name: Jessica, BCBA
 role: Founder and Owner
-image: /assets/img/team/1.jpg #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/team/1.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 social:
   - url: "mailto:jessica@worthingtonbehavioral.com"
