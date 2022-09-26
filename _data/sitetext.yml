@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     welcome: Welcome to
-    title: Worhtington Behavioral Services
+    title: Worthington Behavioral Services
     text: Supporting Providers of Autism Services Through Training, Consultation, and Collaboration
     button: Tell Me More
     buttonlink: "#services"
@@ -36,7 +36,7 @@ en: &DEFAULT_EN
     title: "NEWS AND EVENTS"
     text: "What's new at WBS!"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   about:
     title: "About Us"
@@ -67,12 +67,8 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
       - url: https://instagram.com
         icon: "fab fa-instagram"
 en-US:
