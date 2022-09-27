@@ -14,12 +14,8 @@ social:
     icon: fas fa-envelope
 
 ---
-Use this area to describe your team. **Markdown** supported.
+With over forty years of experience in a medical practice setting, Janet has easily blended her background in Practice Management into Human Resources. Her experience spans many facets of the HR generalist, including employee relations, change and performance management, workforce planning and development, Inclusion/Diversity initiatives and immigration related support services. Janet received her Professional in Human Resources (PHR) certification in 2007 and her SHRM-Certified Professional certification in 2015. She is an active member of the Society of Human Resource Management (SHRM), currently serving as Diversity Chair on the board of her local chapter, is an active committee member of Chamber of Commerce work‐force improvement initiatives and has participated on local Community Foundation grant review committees. 
 
-optional info list (delete if not using):
+Janet is most at home in the mountains and loves sharing experiences with her family, especially if it involves cooking, creating, games and stargazing. 
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
 
