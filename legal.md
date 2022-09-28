@@ -24,12 +24,15 @@ Mailing Address: PO Box #170845, Milwaukee, WI 53217-4504
 Telephone: (414) 454-9093
  
 **About This Notice**
+
 We are required by law to maintain the privacy of Protected Health Information and to give you this Notice explaining our privacy practices regarding that information. You have certain rights – and we have certain legal obligations – regarding the privacy of your Protected Health Information, and this Notice also explains your rights and our obligations. We are required to abide by the terms of the current version of this Notice.
 
 **What Is Protected Health Information?**
+
 “Protected Health Information” is information that individually identifies you and that we create or get from you or from another health care provider, health plan, your employer, or a health care clearinghouse and that relates to (1) your past, present, or future physical or mental health or conditions, (2) the provision of health care to you, or (3) the past, present, or future payment of your health care. 
 
 **1. How We May Use and Disclose Your Protected Health Information**
+
 You will be asked to sign a consent form. Once you have consented to use and disclosure of your Protected Health Information for treatment, payment, and health care operations by signing the consent form, your ABA provider will use or disclose your Protected Health Information as described in this Section 1. Your Protected Health Information may be used and disclosed by your ABA provider, our company staff, and others outside of our company that are involved in your care and treatment for the purpose of providing health care services to you.
 
 We may use and disclose your Protected Health Information in the following circumstances:
@@ -112,13 +115,16 @@ You have the following rights, subject to certain limitations, regarding your Pr
 **Right to a Paper Copy of this Notice:** You have the right to a paper copy of this Notice, even if you have agreed to receive this Notice electronically. You may request a copy of this Notice at any time. 
 
 **How to Exercise Your Rights**
+
 To exercise your rights described in this Notice, send your request, in writing, to our company owner at the address listed at the beginning of this Notice. We may ask you to fill out a form that we will supply. To exercise your right to inspect and copy your Protected Health Information, you may also contact your ABA provider directly. To get a paper copy of this Notice, contact our company owner by phone or email. 
 
 **Changes to this Notice**
+
 We reserve the right to change this Notice. We reserve the right to make the changed Notice effective for Protected Health Information we already have as well as for any Protected Health Information we create or receive in the future. A copy of our current Notice is posted on our website. 
 
 
 **3. Complaints**
+
 You may file a complaint with us or with the Secretary of the United States Department of Health and Human Services if you believe your privacy right have been violated. 
 
 To file a complaint with us, contact our company owner, Jessica Worthington, at the address listed at the beginning of the Notice. All complaints must be made in writing and should be submitted within 180 days of when you knew or should have known of the suspected violation. There will be no retaliation against you for filing a complaint. 
