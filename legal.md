@@ -13,14 +13,14 @@ background: grey
 
 **This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully.**
 
-Effective Date: September 13, 2022
+"Effective Date: September 13, 2022
 If you have any questions about this notice or if you need more information, please contact the company owner, Jessica Worthington. 
 Jessica Worthington, MA, BCBA
 Mailing Address: PO Box #170845, Milwaukee, WI 53217-4504
-Telephone: (414) 454-9093
+Telephone: (414) 454-9093"
  
 **About This Notice**
-We are required by law to maintain the privacy of Protected Health Information and to give you this Notice explaining our privacy practices regarding that information. You have certain rights – and we have certain legal obligations – regarding the privacy of your Protected Health Information, and this Notice also explains your rights and our obligations. We are required to abide by the terms of the current version of this Notice. 
+"We are required by law to maintain the privacy of Protected Health Information and to give you this Notice explaining our privacy practices regarding that information. You have certain rights – and we have certain legal obligations – regarding the privacy of your Protected Health Information, and this Notice also explains your rights and our obligations. We are required to abide by the terms of the current version of this Notice."
 
 **What Is Protected Health Information?**
 “Protected Health Information” is information that individually identifies you and that we create or get from you or from another health care provider, health plan, your employer, or a health care clearinghouse and that relates to (1) your past, present, or future physical or mental health or conditions, (2) the provision of health care to you, or (3) the past, present, or future payment of your health care. 

@@ -18,4 +18,4 @@ Mary received a Bachelor of Science in Political Science from Lander University 
 
 Mary loves to laugh and enjoys spending time with her friends, family, husband, and dog, Mylo. She likes to travel and enjoys visiting new and old places.  
 
-Mary works part-time as a Community Outreach Coordinator at Worthington Behavioral Services LLC. 
+Mary works part-time as a Community Outreach Coordinator at Worthington Behavioral Services.

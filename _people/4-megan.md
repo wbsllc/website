@@ -18,4 +18,4 @@ Megan received a Bachelor of Fine Arts in Sound Design from Savannah College of 
 
 When Megan is not studying or teaching, they enjoy reading, cooking, and farming. They also love spending time with family, traveling, and learning about other cultures.  
 
-Megan works part-time as a Community Outreach Coordinator at Worthington Behavioral Services LLC. 
+Megan works part-time as a Community Outreach Coordinator at Worthington Behavioral Services.

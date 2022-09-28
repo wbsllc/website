@@ -18,4 +18,4 @@ With over forty years of experience in a medical practice setting, Janet has eas
 
 Janet is most at home in the mountains and loves sharing experiences with her family, especially if it involves cooking, creating, games and stargazing. 
 
-Janet works part-time as the Human Resources Coordinator at Worthington Behavioral Services LLC. 
+Janet works part-time as the Human Resources Coordinator at Worthington Behavioral Services.
