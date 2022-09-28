@@ -88,8 +88,11 @@ We may also use or disclose the Protected Health Information, as necessary, to p
 **Your Written Authorization is Required for Other Uses and Disclosures**
 
 The following uses and disclosures of your Protected Health Information will be made only with your written authorization:
+
 **1.**	Most uses and disclosures of psychotherapy notes;
+
 **2.**	Uses and disclosures of Protected Health Information for marketing purposes; and 
+
 **3.**	Disclosures that constitute the sale of your Protected Health Information. 
 
 Other uses and disclosures of Protected Health Information not covered by this Notice or the laws that apply to us will be made only with your written authorization. If you do give us an authorization, you may revoke it at any time by submitting a written revocation to our company owner and we will no longer disclose Protected Health Information under the authorization. But disclosure that we made in reliance on your authorization before you revoked it will not be affected by the revocation. 
