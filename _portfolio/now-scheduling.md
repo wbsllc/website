@@ -11,6 +11,6 @@ image: assets/img/portfolio/monthly-planner.png #main image, can be a link or a 
 alt: image alt text
 
 ---
-Worthington Behavioral Services offers BCBA coverage for ABA Providers experiencing temporary staffing shortages due to medical leaves. WBS understands the stress and anxiety that staffing shortages can cause providers, clients and families, so we aim to alleviate the stress surrounding anticipated staffing shortages by encouraging providers to proactively plan for these shortages so they are better prepared to handle any unanticipated staffing shortages that may arise. 
+Worthington Behavioral Services offers BCBA coverage for ABA Providers experiencing temporary staffing shortages due to medical leaves. WBS understands the stress and anxiety that staffing shortages can cause providers, clients and families. We aim to alleviate the stress surrounding anticipated staffing shortages by encouraging providers to proactively plan for these shortages so they are better prepared to handle any unanticipated staffing shortages that may arise. 
 
 **Advanced scheduling required!**  
