@@ -21,16 +21,6 @@ en: &DEFAULT_EN
     title: "Services"
     text: "Mission Statement: To support the autism community by offering services that enhance the quality, availability, and effectiveness of treatment."
     section: services
-    list:
-      - title: "Training"
-        desc: "Providing supervision for BCaBA / BCBA certification."
-        color: "text-training"
-      - title: "Consultation"
-        desc: "Now accepting provider referrals for Parent Training."
-        color: "text-consultation"
-      - title: "Collaboration"
-        desc: "BCBA coverage for temporary medical leaves. Now scheduling for February 2023!"
-        color: "text-collaboration"
 
   portfolio:
     title: "NEWS AND EVENTS"
@@ -40,7 +30,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    body: "Worthington Behavioral Services LLC was founded out of a love for applied behavior analysis and a desire to support those providing services to individuals and families impacted by autism. WBS Founder, Jessica Worthington, BCBA, understands the importance of providing consistent, quality services to individuals with autism and recognizes the difficulties providers encounter when experiencing staffing shortages. At WBS, we value teamwork and strive to build a supportive team of professionals dedicated to enriching the lives of the autism community. We provide services in Milwaukee, Shorewood, Whitefish Bay, Glendale, Fox Point, Bayside, River Hills, Brown Deer, Mequon, Thiensville, Cedarburg, and Grafton."
+    body: "Worthington Behavioral Services LLC was founded out of a love for applied behavior analysis and a desire to support those providing services to individuals and families impacted by autism. WBS Founder, Jessica Worthington, BCBA, understands the importance of providing consistent, quality services to individuals with autism and recognizes the difficulties providers encounter when experiencing staffing shortages.  \n\n At WBS, we value teamwork and strive to build a supportive team of professionals dedicated to enriching the lives of the autism community. We provide services in Milwaukee, Shorewood, Whitefish Bay, Glendale, Fox Point, Bayside, River Hills, Brown Deer, Mequon, Thiensville, Cedarburg, and Grafton."
     section: about
 
   team:

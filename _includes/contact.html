@@ -51,7 +51,8 @@
             <div class="col-lg-12 text-center">
               <div id="success"></div>
               <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
-                type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: "Send Message" }}</button>
+                type="submit">{{ site.data.sitetext[site.locale].contact.submit | default: "Send Message" }}</button><br><br>
+              <a href="referral-form.pdf" class="btn btn-success btn-xl text-uppercase button">Download Referral Form</a>
             </div>
             <input type="text" name="_gotcha" style="display:none">
             <input type="hidden" name="_next" value="#" />
@@ -114,6 +115,7 @@
               <div id="success"></div>
               <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
                 type="submit">{{ site.data.sitetext.contact.submit | default: "Send Message" }}</button>
+              <a href="https://stackhowto.com" class="btn btn-success btn-xl text-uppercase button">Referral Form</a>
             </div>
             <input type="text" name="_gotcha" style="display:none">
             <input type="hidden" name="_next" value="#" />
