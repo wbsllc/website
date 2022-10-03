@@ -9,10 +9,6 @@ title: Collaboration
 subtitle:
 
 ---
-For over a decade, Jessica has worked with individuals and families impacted by autism, developmental disabilities, and other complex medical needs. Her path to ABA started during her time in medical genetics with the internationally acclaimed Greenwood Genetic Center. Here she became intimately aware of the growing need for qualified providers of services for families impacted by autism spectrum disorders. Jessica began her pursuit of certification as a Behavior Analyst in 2018 and gained invaluable experience working for a large nonprofit ABA company in South Carolina prior to moving with her family to Wisconsin in 2021. She has a special interest in parent and provider training, augmentative and alternative communication (AAC), and treatment of challenging behaviors. 
-        
-Jessica values spending time with her family, supporting others, and seeking opportunities for personal and professional growth. 
+Worthington Behavioral Services offers BCBA coverage for temporaray medical leaves up to 12 weeks. This service is offered to alleviate the stress and burnout ABA providers can experience during staffing shortages. We believe in supporting therapy providers by planning for anticipated staffing so that providers are better prepared to face the challenges that may arise due to unaticipated staffing shortages. WBS understands the importance of providing consistent quality services to individuals impacted by autism and strives to support others in minimizing disruptions to services related to staffing concerns. 
 
-**Professional Memberships:**  
-South Carolina Association for Behavior Analysis (SC ABA)  
-Wisconsin Association for Behavior Analysis (WisABA)
+**Advanced scheduling is required, so contact us today if you are interested!**  

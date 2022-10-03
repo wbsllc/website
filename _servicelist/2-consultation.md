@@ -9,10 +9,6 @@ title: Consultation
 subtitle:
 
 ---
-For over a decade, Jessica has worked with individuals and families impacted by autism, developmental disabilities, and other complex medical needs. Her path to ABA started during her time in medical genetics with the internationally acclaimed Greenwood Genetic Center. Here she became intimately aware of the growing need for qualified providers of services for families impacted by autism spectrum disorders. Jessica began her pursuit of certification as a Behavior Analyst in 2018 and gained invaluable experience working for a large nonprofit ABA company in South Carolina prior to moving with her family to Wisconsin in 2021. She has a special interest in parent and provider training, augmentative and alternative communication (AAC), and treatment of challenging behaviors. 
-        
-Jessica values spending time with her family, supporting others, and seeking opportunities for personal and professional growth. 
+Worthington Behavioral Services offers private pay Parent Training in Applied Behvaior Analysis to families awaiting an autism specturm disorder diagnosis and/or ABA therapy with a provider. We understand the importance of starting therapy as soon as possible and the frustration families face while awaiting a diagnosis or when being placed on waiting lists for ABA therapy. This service is offered to assist families with the transition into ABA therapy.
 
-**Professional Memberships:**  
-South Carolina Association for Behavior Analysis (SC ABA)  
-Wisconsin Association for Behavior Analysis (WisABA)
+**This services requires a referral from a physician or ABA provider.** 
