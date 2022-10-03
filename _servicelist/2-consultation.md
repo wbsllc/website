@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Consultation
-  desc: Now accepting provider referrals for Parent Training.
+  desc: Now accepting provider referrals for Parent Training in Applied Behavior Analysis.
   color: text-consultation
   
 #what displays when the item is clicked:
