@@ -22,6 +22,8 @@ Jessica Worthington, MA, BCBA
 Mailing Address: PO Box #170845, Milwaukee, WI 53217-4504
 
 Telephone: (414) 454-9093
+
+Fax: (414) 888-5844
  
 **About This Notice**
 
