@@ -130,7 +130,7 @@ We reserve the right to change this Notice. We reserve the right to make the cha
 
 **3. Complaints**
 
-You may file a complaint with us or with the Secretary of the United States Department of Health and Human Services if you believe your privacy right have been violated. 
+You may file a complaint with us or with the Secretary of the United States Department of Health and Human Services if you believe your privacy rights have been violated. 
 
 To file a complaint with us, contact our company owner, Jessica Worthington, at the address listed at the beginning of the Notice. All complaints must be made in writing and should be submitted within 180 days of when you knew or should have known of the suspected violation. There will be no retaliation against you for filing a complaint. 
 
