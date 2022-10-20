@@ -16,8 +16,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Worthington Behavioral Services
 email      : jessica@worthingtonbehavioral.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+description: "Worthington Behavioral Services - Training Collaboration Consultation"
+author     : Worthington Behavioral Services
 logo:     #optional, defaults to site title
   path: assets\img\main-logo.png
   height: 60 #height in px, defaults to 52px
@@ -25,7 +25,7 @@ logo:     #optional, defaults to site title
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-QZQGH3WR3X #Google Analytics tracking code here
 
 collections:
   portfolio:
