@@ -18,7 +18,12 @@ For over a decade, Jessica has worked with individuals and families impacted by 
         
 Jessica values spending time with her family, supporting others, and seeking opportunities for personal and professional growth. 
 
+**Certifications and Credentials:**  
+Autism Certificate from Ball State University
+Applied Behavior Analysis Certificate from Ball State University
+Level 5 Credential in Practical Functional Assessment and Skill-Based Treatment of Severe Problem Behavior from FTF Behavioral Consulting
+Adult and Pediatric First Aid/CPR/AED Certified 
+
 **Professional Memberships:**  
 South Carolina Association for Behavior Analysis (SC ABA)  
 Wisconsin Association for Behavior Analysis (WisABA)
-
