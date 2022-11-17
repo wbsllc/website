@@ -20,8 +20,11 @@ Jessica values spending time with her family, supporting others, and seeking opp
 
 **Certifications and Credentials:**  
 Autism Certificate from Ball State University
+
 Applied Behavior Analysis Certificate from Ball State University
+
 Level 5 Credential in Practical Functional Assessment and Skill-Based Treatment of Severe Problem Behavior from FTF Behavioral Consulting
+
 Adult and Pediatric First Aid/CPR/AED Certified 
 
 **Professional Memberships:**  
