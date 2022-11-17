@@ -40,7 +40,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Please contact us to get more information regarding our services."
+    text: "Please contact us to get more information regarding our services. Phone: (414) 454-9093"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
