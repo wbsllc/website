@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Collaboration
-  desc: BCBA coverage for temporary medical leaves. Now scheduling for February 2023!
+  desc: BCBA coverage for temporary medical leaves. Now scheduling for March 2023!
   color: text-collaboration
   
 #what displays when the item is clicked:
