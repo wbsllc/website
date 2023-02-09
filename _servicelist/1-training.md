@@ -9,4 +9,4 @@ title: Training
 subtitle:
 
 ---
-Worthington Behavioral Services offers supervision to individuals pursuing BCaBA / BCBA certification. Supervision is offered at no charge and spaces are limited so contact us today if you are seeking supervision! 
+Worthington Behavioral Services offers supervision to individuals pursuing BCaBA / BCBA certification. Spaces are limited so contact us today if you are seeking supervision! 
