@@ -12,15 +12,17 @@
 en: &DEFAULT_EN
   nav:
     - title: "Services"
-      section: services
+      section: "#services"
     - title: "News"
-      section: portfolio
+      section: "#portfolio"
     - title: "About"
-      section: about
+      section: "#about"
     - title: "Team"
-      section: team
+      section: "#team"
+    - title: "FAQs"
+      section: faqs
     - title: "Contact"
-      section: contact
+      section: "#contact"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
