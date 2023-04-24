@@ -32,7 +32,6 @@ The RBT is responsible for providing 1:1 ABA therapy to an individual for the re
 The BCaBA can provide supervision to RBTs and make treatment recommendations for individuals receiving ABA therapy. A BCaBA is required to receive ongoing supervision from a BCBA. BCaBAs are required to hold a bachelor’s degree, complete behavior analytic coursework, and complete the necessary hours of supervised fieldwork to be eligible to take the BACB’s certification exam. Once credentialed, a BCaBA must meet continuing education requirements, receive ongoing supervision, adhere to the BACB’s Code of Ethics, and recertify every 2 years to continue to work as a BCaBA. 
 
 The BCBA supervises any RBTs or BCaBAs responsible for providing treatment to an individual receiving ABA therapy. The BCBA is responsible for completing individualized assessments and making treatment recommendations. The BCBA works closely with staff, caregivers, family members and others involved in an individual’s treatment. The BCBA is required to hold a master’s degree, complete behavior analytic coursework, and complete the necessary hours of supervised fieldwork to be eligible to take the BACB’s certification exam. Once credentialed, a BCBA must meet continuing education requirements, adhere to the BACB’s Code of Ethics, and recertify every 2 years to continue to work as a BCBA. Some states, like Wisconsin, require that a BCBA hold a state license to practice. 
-BACB - Behavior Analyst Certification Board
 
 **Can someone who does not have an autism diagnosis receive ABA therapy?**
 
