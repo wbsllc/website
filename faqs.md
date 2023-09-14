@@ -66,6 +66,6 @@ Yes, WBS offers services in the home and community settings.
 
 Yes, most insurances cover ABA therapy for individuals with an autism spectrum diagnosis. WBS does not accept and bill insurance as this would limit the individuals that WBS would be able to help early in the diagnosis process. 
 
-**Why do you require a referral for Parent Training if you do no bill insurance?**
+**Why do you require a referral for Parent Training if you do not bill insurance?**
 
 WBS wants to create meaningful and collaborative relationships between providers and families, and this starts at the beginning of the journey! By having your medical provider or future ABA provider refer your child to WBS you open the lines of communication between your child’s providers to ensure that your child receives the appropriate care from the start. 
