@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Consultation
+  title: Parent Training
   desc: Parent Training in Applied Behavior Analysis.
   color: text-consultation
   

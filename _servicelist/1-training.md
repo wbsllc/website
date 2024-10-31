@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Training
+  title: Provider Training
   desc: Training in Applied Behavior Analysis for providers of autism services and other related professions. 
   color: text-training
   

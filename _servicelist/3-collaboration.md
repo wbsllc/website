@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Collaboration
+  title: Treatment of Severe Problem Behavior
   desc: BCBA coverage for temporary medical leaves.
   color: text-collaboration
   
