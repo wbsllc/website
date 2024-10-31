@@ -17,6 +17,8 @@ en: &DEFAULT_EN
       section: "#portfolio"
     - title: "About"
       section: "#about"
+    - title: "Team"
+      section: "#team"
     - title: "FAQs"
       section: faqs
     - title: "Contact"
