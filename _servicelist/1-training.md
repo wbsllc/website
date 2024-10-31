@@ -5,7 +5,7 @@ caption: #what displays in the portfolio grid:
   color: text-training
   
 #what displays when the item is clicked:
-title: Training
+title: Provider Training
 subtitle:
 
 ---

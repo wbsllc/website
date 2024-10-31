@@ -1,16 +1,14 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Now Scheduling
-  subtitle: BCBA Coverage for Providers
+  title: Expanded Hours
+  subtitle: Evening and weekend appointments now available! 
   thumbnail: assets/img/portfolio/monthly-planner.png
   
 #what displays when the item is clicked:
-title: Now Scheduling
-subtitle: BCBA Coverage for Providers
+title: Expanded Hours
+subtitle: Evening and weekend appointments now available! 
 image: assets/img/portfolio/monthly-planner.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Worthington Behavioral Services offers BCBA coverage for ABA Providers experiencing temporary staffing shortages due to medical leaves. WBS understands the stress and anxiety that staffing shortages can cause providers, clients and families. We aim to alleviate the stress surrounding anticipated staffing shortages by encouraging providers to proactively plan for these shortages so they are better prepared to handle any unanticipated staffing shortages that may arise. 
-
-**Advanced scheduling required!**  
+Worthington Behavioral Services offers consultation by appointment only. Our available hours have changed and now include options for evening and weekend appointments. 

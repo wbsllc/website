@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     welcome: Welcome to
     title: Worthington Behavioral Services
-    text: Supporting Providers of Autism Services Through Training, Consultation, and Collaboration
+    text: Supporting Families and Providers Through Training, Consultation, and Collaboration
     button: Tell Me More
     buttonlink: "#services"
 
@@ -24,13 +24,13 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "NEWS AND EVENTS"
-    text: "What's new at WBS!"
+    text: "What's new at WBS"
     section: portfolio
     closebutton: "Close"
 
   about:
     title: "About Us"
-    body: "Worthington Behavioral Services LLC was founded out of a love for applied behavior analysis and a desire to support those providing services to individuals and families impacted by autism. WBS Founder, Jessica Worthington, BCBA, understands the importance of providing consistent, quality services to individuals with autism and recognizes the difficulties providers encounter when experiencing staffing shortages. At WBS, we value teamwork and strive to build a supportive team of professionals dedicated to enriching the lives of the autism community.  \n\n We provide services in Milwaukee, Shorewood, Whitefish Bay, Glendale, Fox Point, Bayside, River Hills, Brown Deer, Mequon, Thiensville, Cedarburg, and Grafton."
+    body: "Worthington Behavioral Services LLC was founded out of a love for applied behavior analysis and a desire to support the autism community. WBS Founder, Jessica Worthington, BCBA, understands the importance of providing consistent, quality services to individuals with autism. At WBS, we value teamwork and strive to build a supportive team of professionals dedicated to enriching the lives of the autism community.  \n\n We provide services in Southeast Wisconsin, including Milwaukee, Whitefish Bay, Fox Point, Bayside, River Hills, Mequon, Cedarburg, and Grafton."
     section: about
 
   team:
