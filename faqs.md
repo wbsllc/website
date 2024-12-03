@@ -41,10 +41,9 @@ Yes, if the individual’s family seeks private pay options. Insurance companies
 
 The sooner the better! Unfortunately, families often experience setbacks in getting started with ABA therapy due to insurance issues and/or provider availability. 
 
-**What services do Worthington Behavioral Services LLC offer? Are these services offered to anyone with an autism diagnosis? Why is it important to offer these services?**
+**What services do Worthington Behavioral Services LLC offer?**
 
-On an individual basis, Worthington Behavioral Services LLC (“WBS”) provides private pay Parent Training in ABA to families awaiting an autism diagnosis or ABA therapy with a provider. Starting ABA therapy as early as possible is important for children who are suspected to have an autism spectrum diagnosis and often families experience delays in starting therapy due to awaiting the evaluation and diagnosis or being placed on an ABA provider waitlist following diagnosis. Parent Training provides families with the skills they need to help their loved ones during this waiting period. 
-WBS also offers temporary BCBA coverage for ABA providers experiencing staffing shortages related to temporary leaves of absence. WBS understands the importance of limiting disruptions to services for individuals with autism and seeks to provide aid to ABA providers during staffing shortages. 
+Worthington Behavioral Services LLC (“WBS”) provides private pay ABA training and consultation to families seeking treatment for developmental delays, autism, or behavioral concerns for which an individual is not currently receiving effective treatment or therapy services. WBS also provides training in ABA to schools, childcare facilities, and other related professionals. 
 
 **How is your organization different from others?**
 
@@ -52,11 +51,11 @@ WBS was founded with the purpose of helping families and professionals during ti
 
 **Will you work with my child’s other providers and with the school?**
 
-Yes, we are happy to work with any other professionals or caregivers involved in an individual’s care! This includes daycare, school, other therapy providers (ST/OT/PT), and the transition to an ABA provider. 
+Yes, we are happy to work with any other professionals or caregivers involved in an individual’s care! This includes daycare, school, other therapy providers (ST/OT/PT). 
 
 **Do you offer services in the evening or on the weekend?**
 
-WBS offers services Monday through Friday from 9am to 3pm. If necessary, other arrangements may be available in certain circumstances for an additional fee. 
+Yes, all services are by appointment only.
 
 **Will you come to my home?**
 
@@ -64,8 +63,4 @@ Yes, WBS offers services in the home and community settings.
 
 **Does insurance cover ABA? Do you accept and file health insurance?**
 
-Yes, most insurances cover ABA therapy for individuals with an autism spectrum diagnosis. WBS does not accept and bill insurance as this would limit the individuals that WBS would be able to help early in the diagnosis process. 
-
-**Why do you require a referral for Parent Training if you do not bill insurance?**
-
-WBS wants to create meaningful and collaborative relationships between providers and families, and this starts at the beginning of the journey! By having your medical provider or future ABA provider refer your child to WBS you open the lines of communication between your child’s providers to ensure that your child receives the appropriate care from the start. 
+Yes, most insurances cover ABA therapy for individuals with an autism spectrum diagnosis. WBS does not accept and bill insurance as this would limit the individuals that WBS would be able to help.
